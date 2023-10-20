@@ -1,0 +1,5 @@
+Q1)Inverse star pattern
+
+Q2)accept 10 numbers and display max ,mean and averge value  
+
+Ans 
